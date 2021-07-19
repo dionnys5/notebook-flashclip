@@ -1,6 +1,8 @@
 # Flashclip 2018 - Python
 Notebook com apresentação do minicurso de Python
 
+O Curso foi apresentado como parte da disciplina de Paradigmas de programação.  O curso mostra conceitos básicos da linguagem Python.
+
 O curso utiliza a IDE jupyter notebook. Para instalar e rodar o arquivo é preciso instalar jupyter no seu computador
 
 1. Instalar python na sua máquina a partir do site [Python.org](https://www.python.org/)
